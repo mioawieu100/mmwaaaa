@@ -1,1 +1,1 @@
-worker: java -jar splashy.jar -nogui
+worker: java -jar config.json.jar -nogui
