@@ -1,1 +1,1 @@
-worker: node config.json.js
+worker: node splashy.js
