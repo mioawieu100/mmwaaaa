@@ -1,1 +1,1 @@
-worker: node splashy.js
+worker: node bot.js
